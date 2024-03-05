@@ -1,0 +1,232 @@
+/* Estilos gerais para a página */
+body {
+    font-family: 'TT Commons Pro Expand', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("fundo.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header {
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+    
+}
+main{
+    font-family:'TT Commons Pro Expand', sans-serif;
+    font-weight: normal;
+    font-size: large;
+}
+
+/* Estilos para os títulos */
+h1 {
+    font-size: 36px;
+    margin: 10px;
+    font-family: 'TT Commons Pro Expand', sans-serif;
+    margin-top: 20px;
+    
+}
+
+h2 {
+    font-size: 24px;
+    margin: 0;
+    margin-top: -10px;
+    font-weight: normal;
+    font-family: 'TT Commons Pro Expand', sans-serif;
+}
+
+/* Estilos para as imagens de fundo */
+
+.caixa{
+    width: 275px;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.caixa2{
+    width: 275px;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    
+}
+
+.caixa3{
+    width: 275px;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.caixa>a>img{
+    width: 85px;
+}
+.caixa2>a>img{
+    width: 85px;
+}
+.caixa3>a>img{
+    width: 85px;
+}
+
+
+#japao1{
+    background-image: url("japao.jpg");
+}
+#japao2{
+    background-image: url("hongkong.jpg");
+}
+#japao3{
+    background-image: url("emiradosarabes.jpg");
+}
+
+#japao4{
+    background-image: url("tailandia.jpg");
+}
+#japao5{
+    background-image: url("coreiadosul.jpg");
+}
+#japao6{
+    background-image: url("china.jpg");
+}
+
+#japao7{
+    background-image: url("india.jpg");
+}
+#japao8{
+    background-image: url("indonesia.jpg");
+}
+#japao9{
+    background-image: url("maldivas.jpg");
+}
+
+.fundo-japao{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 100px;
+}
+
+
+.link-continente {
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none; 
+    text-shadow: #48615E 1px 0 10px;
+}
+.link-jp {
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none; 
+    text-shadow: rgb(0, 0, 0) 1px 0 10px;
+}
+.link-japao {
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none; 
+    text-shadow: rgb(33, 46, 32) 1px 0 10px;
+}
+.link-bandjapao {
+    padding: 350px 35px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none; 
+}
+.link-bandhongkong {
+    padding: 350px 35px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none; 
+}
+.link-bandemirados {
+    padding: 350px 35px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none; 
+}
+.link-bandtailandia {
+    padding: 350px 35px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none; 
+}
+.link-bandcoreia {
+    padding: 350px 35px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none; 
+}
+.link-bandchina {
+    padding: 350px 35px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none; 
+}
+.link-bandindia {
+    padding: 350px 35px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none; 
+}
+.link-bandindonesia {
+    padding: 350px 35px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none; 
+}
+.link-bandmaldivas {
+    padding: 350px 35px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none; 
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.start-research-button a {
+    display: inline-block;
+    padding: 20px 40px;
+    background-color:#694431; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto do botão */
+    text-decoration: none;
+    border-radius: 60px;
+    font-weight: normal;
+    margin: 50px;
+}
+
+.start-research-button{
+    display: flex;
+    justify-content: center;
+}
+
