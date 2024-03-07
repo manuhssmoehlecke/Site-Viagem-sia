@@ -4,16 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login - Ásia</title>
-    <link rel="stylesheet" href="tela.css">
+    <link rel="stylesheet" href="css/tela.css">
 </head>
 <body>
     <header>
         <h1>Vamos nos conhecer <br> melhor!</h1>
          <!-- O vídeo como plano de fundo -->
          <div class="img-background">
-<img src="login.jpg" alt="login">
+<img src="imgs/login.jpg" alt="login">
 
-         </div>   
+         </div>
     </header>
 
     <main>
@@ -22,7 +22,7 @@
             <h2>
                 Quantos países da Ásia você gostaria de conhecer?
             </h2>
-            
+
             <h2>
                 Qual você gostaria de conhecer primeiro?
             </h2>
@@ -35,21 +35,21 @@
             <div class="container">
                 <button>Prosseguir</button>
             </div>
-            
+
         </form>
     </main>
 
  <script>
  document.getElementById('form-login').addEventListener('submit', function(event) {
      event.preventDefault(); // Impede o envio padrão do formulário
-     window.location.href = "animais.html"; // Redireciona para a página desejada
+     window.location.href = "/paises"; // Redireciona para a página desejada
  });
 </script>
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
 </head>
 <body>
 

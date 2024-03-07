@@ -50,7 +50,7 @@
  <script>
  document.getElementById('form-login').addEventListener('submit', function(event) {
      event.preventDefault(); // Impede o envio padrão do formulário
-     window.location.href = "/tela.html"; // Redireciona para a página desejada
+     window.location.href = "/tela"; // Redireciona para a página desejada
  });
 </script>
 

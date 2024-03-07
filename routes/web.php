@@ -20,3 +20,16 @@ Route::get('/', function () {
 Route::get('/login', function () {
     return view('login');
 });
+
+Route::get('/tela', function () {
+    return view('tela');
+});
+
+Route::get('/paises', function () {
+    return view('paises');
+});
+
+Route::get('/japao', function () {
+    return view('japao');
+});
+

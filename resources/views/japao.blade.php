@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Mamíferos Marinhos</title>
-    <link rel="stylesheet" href="baleia-jubarte.css" />
+    <link rel="stylesheet" href="css/japao.css" />
   </head>
 
   <main>
@@ -24,8 +24,8 @@
     </h2>
     <p style="color: #ffffff">
       <br />
-      ㅤA língua oficial e predominante do Japão é o japonês. O japonês é um idioma isolado, o que significa que não está relacionado diretamente a nenhum outro idioma conhecido. Ele utiliza três sistemas de escrita: kanji (caracteres logográficos de origem chinesa), hiragana e katakana (ambos alfabetos silábicos). 
-      
+      ㅤA língua oficial e predominante do Japão é o japonês. O japonês é um idioma isolado, o que significa que não está relacionado diretamente a nenhum outro idioma conhecido. Ele utiliza três sistemas de escrita: kanji (caracteres logográficos de origem chinesa), hiragana e katakana (ambos alfabetos silábicos).
+
     </p>
 
     <div id="jp" class="img-lateral">
@@ -35,7 +35,7 @@
         <br> これは日本の言葉です。あなたの言語は非常に複雑で理解しにくいです。お元気ですか <br> <br>
         ㅤA estrutura gramatical japonesa é distinta de muitas outras línguas, com um sistema de escrita que inclui caracteres kanji (ideogramas derivados dos caracteres chineses), hiragana e katakana (duas formas de caracteres silábicos), bem como alfabeto romano. Este sistema de escrita complexo pode representar um desafio para os aprendizes estrangeiros, mas também é uma parte fundamental da rica tapeçaria cultural japonesa.
       </p>
-      <img src="jp.jpg" alt="jp">
+      <img src="imgs/jp.jpg" alt="jp">
   </div>
 
     <div class="video-ecossistema">
@@ -43,14 +43,14 @@
       <h3 style="color: #ffffff">
         <u><b>Conhecendo Tóquio</b></u>
       </h3>
-    
+
       <p style="color: #ffffff">
         ㅤㅤTóquio, a capital do Japão, é uma metrópole dinâmica que combina tradição e inovação. Como uma das cidades mais populosas do mundo, Tóquio é conhecida por sua intensa atividade cultural, tecnológica e econômica. A cidade é um cenário de contrastes, apresentando templos históricos ao lado de arranha-céus modernos. Tóquio desempenha um papel central na economia global, destacando-se em setores como tecnologia, finanças e moda. Os bairros distintos, como Shibuya e Shinjuku, oferecem uma variedade de experiências, desde animados cruzamentos até tranquilos jardins tradicionais. Tóquio é um hub de cultura pop, lar de movimentos como o anime e o J-Pop, que alcançaram reconhecimento global. <br> <br>
         ㅤㅤConhecida por sua mistura única de tradição e modernidade, Tóquio oferece uma experiência única para seus visitantes. Por um lado, você encontrará bairros históricos como Asakusa, com seus templos antigos e atmosfera tradicional, e por outro lado, distritos ultra-modernos como Shibuya e Shinjuku, onde arranha-céus, luzes de néon e uma vida noturna agitada dominam a paisagem urbana. Tóquio é um paraíso para os amantes da comida, com uma ampla variedade de restaurantes que oferecem desde iguarias tradicionais japonesas até cozinha internacional de alta qualidade. Além disso, a cidade é um paraíso para os compradores, com uma infinidade de lojas de departamento, boutiques de moda e mercados de rua.
       </p>
 
       <video autoplay muted loop id="video-ecossistema">
-        <source src="video2.mp4" type="video/mp4" />
+        <source src="videos/video2.mp4" type="video/mp4" />
         Seu navegador não suporta o elemento de vídeo.
       </video>
     </div>
