@@ -237,3 +237,12 @@ h2 {
 #carousel_paises{
     width: 25% !important;
 }
+
+h3 {
+    font-size: 24px;
+    margin: 0;
+    margin-top: -10px;
+    font-weight: normal;
+    font-family: 'TT Commons Pro Expand', sans-serif;
+
+}
